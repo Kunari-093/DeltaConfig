@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_orchid">#CDB4DB</color>
+    <color name="pastel_petal">#FFC8DD</color>
+    <color name="blush_pop">#FFAFCC</color>
+    <color name="icy_blue">#BDE0FE</color>
+    <color name="sky_blue">#A2D2FF</color>
+    <color name="background">#FFF5F9</color>
+    <color name="card">#DEFFFAFC</color>
+    <color name="text_primary">#4B2B40</color>
+    <color name="text_secondary">#705365</color>
+    <color name="accent">#8D315C</color>
+    <color name="border">#D9A2BC</color>
+    <color name="accent_light">#FFE4EE</color>
+    <color name="dialog_surface">#FFFAFC</color>
+    <color name="bottom_surface">#F2FFF5F9</color>
+    <color name="disabled_fill">#EBDDE5</color>
+    <color name="disabled_text">#8C7381</color>
+    <color name="warning_text">#79364F</color>
+</resources>

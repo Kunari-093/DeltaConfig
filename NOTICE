@@ -1,0 +1,21 @@
+鼠鼠工具箱 / DeltaConfig
+
+Source code and project documentation are provided under the MIT License.
+
+Bundled illustration
+--------------------
+app/src/main/res/drawable-nodpi/app_background.jpg was supplied by the project
+maintainer, who confirmed permission to distribute it with this project's
+source code and APK. The illustration is not covered by the code's MIT license.
+For reuse beyond that distribution, obtain permission from its rights holder.
+The project does not claim authorship of the illustration.
+
+References and names
+--------------------
+The root mount-namespace access approach was informed by inspection of the
+Android-DataBackup project (https://github.com/XayahSuSuSu/Android-DataBackup).
+This repository uses Android/Java platform APIs and does not bundle that app,
+libsu, its source code, game libraries, game APKs, or account data.
+
+Game names and identifiers belong to their respective owners. This is an
+independent utility and has no affiliation with the game publisher.

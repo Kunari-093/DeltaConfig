@@ -1,0 +1,52 @@
+# Local builds, signing material and device evidence never belong in the repository.
+/build/
+/signing/
+/dist/
+/device-testing/
+**/toolchain/
+/toolchain/
+/publish*/
+/.publish*/
+/*staging*/
+/public-release*/
+/backups/
+/game-original*/
+/private*/
+
+# Test outputs and private/real-world fixtures.
+/tests/generated/
+/tests/classes/
+/tests/*-classes/
+/tests/temporary-output/
+/tests/fixtures/
+/tests/private/
+**/__pycache__/
+*.py[cod]
+*.class
+
+# Archives, installed packages, logs and credentials are release/local-only artifacts.
+*.apk
+*.idsig
+*.bak
+*.tar
+*.tar.*
+*.zst
+*.zip
+*.log
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.pem
+*-password.*
+.env
+.env.*
+local.properties
+
+# Editor/OS scratch files.
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
